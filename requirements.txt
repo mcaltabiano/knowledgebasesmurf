@@ -1,0 +1,8 @@
+langchain>=0.1.10
+langchain-core>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-chroma==0.1.4
+langchain-ollama==0.2.2
+chromadb==0.5.20
+python-docx==1.1.2
+gradio==5.12.0
