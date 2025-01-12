@@ -1,6 +1,6 @@
 # Knowledge base assistant smurf
 
-![363505308-256263a5-02b0-418b-b112-dca69b5933d1](https://github.com/user-attachments/assets/4360fc42-7ebd-4b1b-965f-99e7ee1fb78f)
+![Screenshot 2025-01-12 182705](https://github.com/user-attachments/assets/47c8164a-ebac-4030-b360-dce8d454657a)
 
 Silly project of a knowledge base assistant who answers questions about my docs.
 
