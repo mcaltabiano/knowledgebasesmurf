@@ -78,9 +78,7 @@ class Assistant:
         self.interface = gr.ChatInterface(
             fn=self._chat,
             title="Puffo assistente",
-            description="Fai domande sulla tua knowledge base",
-            examples=["Cosa contengono i documenti?", "Puoi riassumere il contenuto?"],
-            theme="soft"
+            description="Fai domande sulla tua knowledge base"
         )
         
         self.interface.launch(
