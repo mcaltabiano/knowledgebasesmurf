@@ -68,3 +68,6 @@ knowledge-base/
 
 # Ignore vector_db folder
 vector_db/
+
+# Ignore config.yaml
+config.yaml
